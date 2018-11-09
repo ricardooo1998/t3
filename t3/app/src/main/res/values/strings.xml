@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Tema3_Final</string>
+    <string name="nombre">Nombre:</string>
+    <string name="nombre_de_usuario">Nombre de Usuario:</string>
+    <string name="fecha_de_nacimiento">Fecha de Nacimiento:</string>
+    <string name="guardar_preferencias">Guardar Preferencias</string>
+    <string name="mostrar_preferencias">Mostrar Preferencias</string>
+    <string name="registrar_alumno">Registrar Alumno</string>
+    <string name="consultar_alumno">Consultar Alumno</string>
+    <string name="consultar_profesor">Consultar Profesor</string>
+    <string name="sexo">Sexo:</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="edad">Edad:</string>
+    <string name="ciclo">Ciclo:</string>
+    <string name="curso">Curso</string>
+    <string name="nota_media">Nota Media:</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="registrar_profesor">Registrar Profesor</string>
+    <string name="name">Name</string>
+    <string name="curso_donde_es_tutor">Curso donde es Tutor:</string>
+    <string name="despacho">Despacho:</string>
+    <string name="consultar">Consultar</string>
+    <string name="todos_los_estudiantes">Todos los Estudiantes</string>
+    <string name="todos_los_profesores">Todos los Profesores</string>
+    <string name="todos_los_profesores_y_alumnos">Todos los Profesores y Alumnos</string>
+    <string name="estudiantes_por_curso">Estudiantes por Curso</string>
+    <string name="estudiantes_por_ciclo">Estudiantes por Ciclo</string>
+    <string name="estos_son_todos_los_estudiantes">Estos son todos los Estudiantes</string>
+    <string name="consultar_alumnos_por_ciclo">Consultar Alumnos por Ciclo</string>
+    <string name="buscar">buscar</string>
+    <string name="introduzca_el_ciclo">Introduzca el Ciclo:</string>
+    <string name="buscar_alumnos_por_curso">Buscar Alumnos por Curso:</string>
+    <string name="introduzca_el_curso">Introduzca el Curso:</string>
+</resources>
